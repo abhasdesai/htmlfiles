@@ -1,0 +1,55 @@
+body {margin:0; padding:0;}
+
+/*Home*/
+.tabs-img {padding: 0 15px; background: RGBA(0, 0, 0, 0.2); border: 2px solid #34bbd5;}
+
+.tabs-img.container {width: 100% !important;}
+
+.tab-container {margin-top: 20px; margin-bottom: 20px;}
+
+.tabs-box1 {padding-top: 20px; padding-bottom: 20px; background-color: #34bbd5;}
+
+.tabs-box2 {padding-top: 20px; padding-bottom: 20px; background-color: #7cb2d5;}
+
+.tabs-box3 {padding-top: 20px; padding-bottom: 20px; background-color: #85c9d2;}
+
+.tab-btn {display: block; margin: 0 auto; background-color: #f47455; border: 1px solid #999999; border-radius: 0%; color: #fff; 
+	text-transform: uppercase; letter-spacing: 1px;}
+
+.travelguide {padding: 0 15px; background: #fff; border: 2px solid #34bbd5;}
+
+.travelguide-content {width: 20%; margin-left: 80px; margin-top: 30px; margin-bottom: 30px;}
+
+.travel-btn {display: block; background-color: #f47455; border: 1px solid #999999; border-radius: 0%; color: #fff; 
+	text-transform: uppercase; letter-spacing: 1px;}
+
+.trip-planning {padding: 0 15px; background: #d6edfa;}
+
+/*Iinerary*/
+h1 {text-align: center; padding-bottom: 10px; text-transform: uppercase;}
+
+.city-wrapper {height: 80px; padding: 10px 10px; margin-top: 5px; margin-bottom: 5px; background-color: #d6edfa;}
+
+.citytab {height: 50px; padding: 10px 10px; margin-top: 5px; margin-bottom: 5px; margin-right: 2px; background-color: #34bbd5;}
+
+.content-wrapper {padding: 0 10px; padding-top: 10px; padding-bottom: 10px; margin-top: 5px; margin-bottom: 5px; background-color: #d6edfa;}
+
+#content {overflow: hidden;}
+
+h5 {font-weight: bold;}
+
+.content-btn {display: block; margin: 0 auto; background-color: #666666; border: 1px solid #999999; border-radius: 0%; color: #fff; 
+	text-transform: uppercase; letter-spacing: 1px;}
+
+.content-smallwrapper {padding: 0 10px; padding-top: 10px; padding-bottom: 10px; margin-top: 5px; margin-bottom: 5px; background-color: #d6edfa;}
+
+.content-smallwrapper h5 {text-transform: uppercase;}
+
+.button-wrapper {padding: 40px;}
+
+.wrap-btn {background-color: #f47455; border: 1px solid #999999; border-radius: 0%; color: #fff; text-transform: uppercase; 
+	letter-spacing: 1px;}
+
+.login-wrapper {height: 100px; padding: 40px 10px; margin-top: 5px; margin-bottom: 5px; background-color: #d6edfa;}
+
+.login-wrapper  {font-weight: bold;}
